@@ -1,6 +1,7 @@
-<?php include"inc/config.php"; ?>
-<?php
-	unset($_SESSION['iam_user']);
-	//session_destroy();
-	redir($url."index.php");
+<?php 
+// Menghapus session yang telah dibuat
+session_start();
+session_destroy();
+header('location: login.php');
+
 ?>
