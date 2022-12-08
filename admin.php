@@ -18,14 +18,14 @@
     <link rel="stylesheet" type="text/css" href="index.css">
     <link rel="stylesheet" type="text/css" href="fontawesome/css/all.min.css">
 
-    <title>Rumah Makan Neng Alya</title>
+    <title>Bakso Solo Baru</title>
   </head>
   <body>
 
   <!-- Jumbotron -->
       <div class="jumbotron jumbotron-fluid text-center">
         <div class="container">
-          <h1 class="display-4"><span class="font-weight-bold">Rumah Makan Neng Alya</span></h1>
+          <h1 class="display-4"><span class="font-weight-bold">BAKSO SOLO BARU</span></h1>
           <hr>
           <p class="lead font-weight-bold">Silahkan Pesan Menu Sesuai Keinginan Anda <br> 
           Enjoy Your Meal</p>
@@ -36,7 +36,7 @@
   <!-- Navbar -->
       <nav class="navbar navbar-expand-lg  bg-dark">
         <div class="container">
-        <a class="navbar-brand text-white" href="admin.php"><strong>Rumah Makan</strong> Neng Alya</a>
+        <a class="navbar-brand text-white" href="admin.php"><strong>Bakso</strong> Solo Baru</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -64,8 +64,8 @@
   <!-- Menu -->    
       <div class="container">
         <div class="judul text-center mt-5">
-          <h3 class="font-weight-bold">Rumah Makan Neng Alya</h3>
-          <h5>Kaum,Pagaden,Subang Jawa Barat
+          <h3 class="font-weight-bold">BAKSO SOLO BARU</h3>
+          <h5>Bukit Kemuning, Tanjung Piayu, Batam
           <br>Buka Jam <strong>16:00 - 23:00</strong></h5>
         </div>
 
@@ -97,7 +97,7 @@
         <div class="row footer-body">
           <div class="col-md-6">
           <div class="copyright">
-            <strong>Team Nyeblak</strong> <i class="far fa-copyright"></i> 2022 -  Designed by Alyael,Evi,Sellay</p>
+            <strong>Copyright</strong> <i class="far fa-copyright"></i> 2020 -  Designed by Alfirdaus&Rinaldo</p>
           </div>
           </div>
 

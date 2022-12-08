@@ -21,13 +21,13 @@
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.css">
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.21/css/dataTables.bootstrap4.min.css">
 
-    <title>Rumah Makan  Neng Alya</title>
+    <title>Bakso Solo Baru</title>
   </head>
   <body>
   <!-- Jumbotron -->
       <div class="jumbotron jumbotron-fluid text-center">
         <div class="container">
-          <h1 class="display-4"><span class="font-weight-bold">RUMAH MAKAN NENG ALYA</span></h1>
+          <h1 class="display-4"><span class="font-weight-bold">BAKSO SOLO BARU</span></h1>
           <hr>
           <p class="lead font-weight-bold">Silahkan Pesan Menu Sesuai Keinginan Anda <br> 
           Enjoy Your Meal</p>
@@ -38,7 +38,7 @@
   <!-- Navbar -->
       <nav class="navbar navbar-expand-lg  bg-dark">
         <div class="container">
-        <a class="navbar-brand text-white" href="admin.php"><strong>Rumah Makan</strong>Neng Alya</a>
+        <a class="navbar-brand text-white" href="admin.php"><strong>Bakso</strong> Solo Baru</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -134,7 +134,7 @@
         <div class="row footer-body">
           <div class="col-md-6">
           <div class="copyright">
-            <strong>Copyright</strong> <i class="far fa-copyright"></i> 2020 -  Designed by Alyaell,Epi,Sellay</p>
+            <strong>Copyright</strong> <i class="far fa-copyright"></i> 2020 -  Designed by Alfirdaus&Rinaldo</p>
           </div>
           </div>
 

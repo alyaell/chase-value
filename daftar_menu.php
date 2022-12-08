@@ -24,7 +24,7 @@
   <!-- Jumbotron -->
       <div class="jumbotron jumbotron-fluid text-center">
         <div class="container">
-          <h1 class="display-4"><span class="font-weight-bold">RUMAH MAKAN NENG ALYA</span></h1>
+          <h1 class="display-4"><span class="font-weight-bold">BAKSO SOLO BARU</span></h1>
           <hr>
           <p class="lead font-weight-bold">Silahkan Pesan Menu Sesuai Keinginan Anda <br> 
           Enjoy Your Meal</p>
@@ -35,7 +35,7 @@
   <!-- Navbar -->
       <nav class="navbar navbar-expand-lg  bg-dark">
         <div class="container">
-        <a class="navbar-brand text-white" href="admin.php"><strong>Rumah Makan</strong>Neng Alya</a>
+        <a class="navbar-brand text-white" href="admin.php"><strong>Bakso</strong> Solo Baru</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -83,7 +83,6 @@
               <div class="card-body">
                 <h5 class="card-title font-weight-bold"><?php echo $result['nama_menu'] ?></h5>
                <label class="card-text harga"><strong>Rp.</strong> <?php echo number_format($result['harga']); ?></label><br>
-               <h6 class="card-text stok"><strong>Stok</strong> <?php echo number_format($result['stok']); ?></label><br>
                 <a href="edit_menu.php?id_menu=<?php echo $result['id_menu']  ?>" class="btn btn-success btn-sm btn-block">EDIT</a>
 
                 <a href="hapus_menu.php?id_menu=<?php echo $result['id_menu']  ?>" class="btn btn-danger btn-sm btn-block text-light">HAPUS</a>
@@ -103,7 +102,7 @@
         <div class="row footer-body">
           <div class="col-md-6">
           <div class="copyright">
-            <strong>Copyright</strong> <i class="far fa-copyright"></i> 2020 -  Designed by Alyaell,Epi,Sellay</p>
+            <strong>Copyright</strong> <i class="far fa-copyright"></i> 2020 -  Designed by Alfirdaus&Rinaldo</p>
           </div>
           </div>
 
